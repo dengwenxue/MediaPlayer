@@ -1,0 +1,2 @@
+include ':app', ':vitamio', ':OneKeyShare'
+include ':shareSDK'

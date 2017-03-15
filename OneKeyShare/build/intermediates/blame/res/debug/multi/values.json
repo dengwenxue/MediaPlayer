@@ -1,0 +1,1681 @@
+[
+    {
+        "outputFile": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 81,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 81,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 81,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_color_drawables.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 81,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 45,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 86,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 86,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 53,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 53,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 45,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 45,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 42,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 42,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 48,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 48,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 41,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 41,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endColumn": 46,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 46,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 50,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 50,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 69,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 69,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 108,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 108,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endColumn": 46,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endColumn": 46,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 54,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 54,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 102,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 102,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 51,
+                    "endOffset": 1115
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endColumn": 51,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1120,
+                    "endColumn": 52,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 956,
+                        "endColumn": 52,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 103,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1009,
+                        "endColumn": 103,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 83,
+                    "endOffset": 1356
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1113,
+                        "endColumn": 83,
+                        "endOffset": 1192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1361,
+                    "endLine": 87,
+                    "endColumn": 9,
+                    "endOffset": 3241
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1197,
+                        "endLine": 85,
+                        "endColumn": 9,
+                        "endOffset": 3077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3246,
+                    "endColumn": 54,
+                    "endOffset": 3296
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3082,
+                        "endColumn": 54,
+                        "endOffset": 3132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3301,
+                    "endColumn": 52,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3137,
+                        "endColumn": 52,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 52,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3190,
+                        "endColumn": 52,
+                        "endOffset": 3238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3407,
+                    "endColumn": 57,
+                    "endOffset": 3460
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3243,
+                        "endColumn": 57,
+                        "endOffset": 3296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3465,
+                    "endColumn": 50,
+                    "endOffset": 3511
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 3301,
+                        "endColumn": 50,
+                        "endOffset": 3347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3516,
+                    "endColumn": 43,
+                    "endOffset": 3555
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3352,
+                        "endColumn": 43,
+                        "endOffset": 3391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3560,
+                    "endColumn": 54,
+                    "endOffset": 3610
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3396,
+                        "endColumn": 54,
+                        "endOffset": 3446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3615,
+                    "endColumn": 104,
+                    "endOffset": 3715
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3451,
+                        "endColumn": 104,
+                        "endOffset": 3551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3720,
+                    "endColumn": 52,
+                    "endOffset": 3768
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3556,
+                        "endColumn": 52,
+                        "endOffset": 3604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3773,
+                    "endColumn": 101,
+                    "endOffset": 3870
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3609,
+                        "endColumn": 101,
+                        "endOffset": 3706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3875,
+                    "endColumn": 43,
+                    "endOffset": 3914
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 3711,
+                        "endColumn": 43,
+                        "endOffset": 3750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3919,
+                    "endColumn": 85,
+                    "endOffset": 4000
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3755,
+                        "endColumn": 85,
+                        "endOffset": 3836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4005,
+                    "endColumn": 52,
+                    "endOffset": 4053
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3841,
+                        "endColumn": 52,
+                        "endOffset": 3889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4058,
+                    "endColumn": 42,
+                    "endOffset": 4096
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 3894,
+                        "endColumn": 42,
+                        "endOffset": 3932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4101,
+                    "endColumn": 86,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3937,
+                        "endColumn": 86,
+                        "endOffset": 4019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endColumn": 44,
+                    "endOffset": 4228
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 4024,
+                        "endColumn": 44,
+                        "endOffset": 4064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4233,
+                    "endColumn": 43,
+                    "endOffset": 4272
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4069,
+                        "endColumn": 43,
+                        "endOffset": 4108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4277,
+                    "endColumn": 59,
+                    "endOffset": 4332
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 4113,
+                        "endColumn": 59,
+                        "endOffset": 4168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4337,
+                    "endColumn": 54,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4173,
+                        "endColumn": 54,
+                        "endOffset": 4223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endColumn": 46,
+                    "endOffset": 4434
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 46,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4439,
+                    "endColumn": 47,
+                    "endOffset": 4482
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 47,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4487,
+                    "endColumn": 49,
+                    "endOffset": 4532
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 49,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4537,
+                    "endColumn": 53,
+                    "endOffset": 4586
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 53,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4591,
+                    "endColumn": 57,
+                    "endOffset": 4644
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 57,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4649,
+                    "endColumn": 52,
+                    "endOffset": 4697
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 654,
+                        "endColumn": 49,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4702,
+                    "endColumn": 60,
+                    "endOffset": 4758
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 595,
+                        "endColumn": 57,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4763,
+                    "endColumn": 45,
+                    "endOffset": 4804
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 45,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4809,
+                    "endColumn": 57,
+                    "endOffset": 4862
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 57,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4867,
+                    "endColumn": 57,
+                    "endOffset": 4920
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 57,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4925,
+                    "endColumn": 54,
+                    "endOffset": 4975
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 54,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4980,
+                    "endColumn": 56,
+                    "endOffset": 5032
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\res\\values\\ssdk_oks_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 56,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5037,
+                    "endColumn": 52,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4228,
+                        "endColumn": 52,
+                        "endOffset": 4276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endColumn": 103,
+                    "endOffset": 5189
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4281,
+                        "endColumn": 103,
+                        "endOffset": 4380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5194,
+                    "endColumn": 44,
+                    "endOffset": 5234
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4385,
+                        "endColumn": 44,
+                        "endOffset": 4425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5239,
+                    "endColumn": 46,
+                    "endOffset": 5281
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4430,
+                        "endColumn": 46,
+                        "endOffset": 4472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5286,
+                    "endColumn": 38,
+                    "endOffset": 5320
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4477,
+                        "endColumn": 38,
+                        "endOffset": 4511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5325,
+                    "endColumn": 83,
+                    "endOffset": 5404
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4516,
+                        "endColumn": 83,
+                        "endOffset": 4595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5409,
+                    "endColumn": 43,
+                    "endOffset": 5448
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4600,
+                        "endColumn": 43,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5453,
+                    "endColumn": 43,
+                    "endOffset": 5492
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 43,
+                        "endOffset": 4683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5497,
+                    "endColumn": 62,
+                    "endOffset": 5555
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4688,
+                        "endColumn": 62,
+                        "endOffset": 4746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5560,
+                    "endColumn": 63,
+                    "endOffset": 5619
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4751,
+                        "endColumn": 63,
+                        "endOffset": 4810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5624,
+                    "endColumn": 55,
+                    "endOffset": 5675
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4815,
+                        "endColumn": 55,
+                        "endOffset": 4866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5680,
+                    "endColumn": 50,
+                    "endOffset": 5726
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4871,
+                        "endColumn": 50,
+                        "endOffset": 4917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5731,
+                    "endColumn": 55,
+                    "endOffset": 5782
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4922,
+                        "endColumn": 55,
+                        "endOffset": 4973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5787,
+                    "endColumn": 63,
+                    "endOffset": 5846
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4978,
+                        "endColumn": 63,
+                        "endOffset": 5037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5851,
+                    "endColumn": 48,
+                    "endOffset": 5895
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 5042,
+                        "endColumn": 48,
+                        "endOffset": 5086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5900,
+                    "endColumn": 47,
+                    "endOffset": 5943
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5091,
+                        "endColumn": 47,
+                        "endOffset": 5134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5948,
+                    "endColumn": 51,
+                    "endOffset": 5995
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 5139,
+                        "endColumn": 51,
+                        "endOffset": 5186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6000,
+                    "endColumn": 53,
+                    "endOffset": 6049
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 5191,
+                        "endColumn": 53,
+                        "endOffset": 5240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6054,
+                    "endColumn": 50,
+                    "endOffset": 6100
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5245,
+                        "endColumn": 50,
+                        "endOffset": 5291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6105,
+                    "endColumn": 46,
+                    "endOffset": 6147
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5296,
+                        "endColumn": 46,
+                        "endOffset": 5338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6152,
+                    "endColumn": 48,
+                    "endOffset": 6196
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5343,
+                        "endColumn": 48,
+                        "endOffset": 5387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6201,
+                    "endColumn": 59,
+                    "endOffset": 6256
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5392,
+                        "endColumn": 59,
+                        "endOffset": 5447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6261,
+                    "endColumn": 45,
+                    "endOffset": 6302
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5452,
+                        "endColumn": 45,
+                        "endOffset": 5493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6307,
+                    "endColumn": 59,
+                    "endOffset": 6362
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 5498,
+                        "endColumn": 59,
+                        "endOffset": 5553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6367,
+                    "endColumn": 44,
+                    "endOffset": 6407
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5558,
+                        "endColumn": 44,
+                        "endOffset": 5598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6412,
+                    "endColumn": 86,
+                    "endOffset": 6494
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5603,
+                        "endColumn": 86,
+                        "endOffset": 5685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6499,
+                    "endColumn": 52,
+                    "endOffset": 6547
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 5690,
+                        "endColumn": 52,
+                        "endOffset": 5738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6552,
+                    "endColumn": 52,
+                    "endOffset": 6600
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5743,
+                        "endColumn": 52,
+                        "endOffset": 5791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6605,
+                    "endColumn": 59,
+                    "endOffset": 6660
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5796,
+                        "endColumn": 59,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6665,
+                    "endColumn": 58,
+                    "endOffset": 6719
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5856,
+                        "endColumn": 58,
+                        "endOffset": 5910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6724,
+                    "endColumn": 50,
+                    "endOffset": 6770
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5915,
+                        "endColumn": 50,
+                        "endOffset": 5961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6775,
+                    "endColumn": 98,
+                    "endOffset": 6869
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 5966,
+                        "endColumn": 98,
+                        "endOffset": 6060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6874,
+                    "endColumn": 41,
+                    "endOffset": 6911
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 6065,
+                        "endColumn": 41,
+                        "endOffset": 6102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6916,
+                    "endColumn": 83,
+                    "endOffset": 6995
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 6107,
+                        "endColumn": 83,
+                        "endOffset": 6186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 7000,
+                    "endColumn": 51,
+                    "endOffset": 7047
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 6191,
+                        "endColumn": 51,
+                        "endOffset": 6238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 7052,
+                    "endColumn": 45,
+                    "endOffset": 7093
+                },
+                "from": {
+                    "file": "D:\\StudioApp\\MediaPlayer\\OneKeyShare\\build\\intermediates\\exploded-aar\\MediaPlayer\\shareSDK\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 6243,
+                        "endColumn": 45,
+                        "endOffset": 6284
+                    }
+                }
+            }
+        ]
+    }
+]

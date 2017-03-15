@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/start_music"
+        android:orderInCategory="100"
+        android:title="@string/start_music"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/stop_music"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/stop_music"/>
+
+    <item
+        android:id="@+id/play_vedio"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/play_video"/>
+</menu>
